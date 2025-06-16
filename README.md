@@ -11,3 +11,7 @@ Loving the hands-on practice! 🐍💻
 
 📅 Day 3: I learned about conditional statements and solved problems using them. I also started learning loops and made 
 a simple project: a "Guess the Number"
+
+📅 Day 4:
+I learned about functions, lists, tuples, and dictionaries in Python. I also created a to-do list program and made several 
+small programs using these concepts to strengthen my understanding.
